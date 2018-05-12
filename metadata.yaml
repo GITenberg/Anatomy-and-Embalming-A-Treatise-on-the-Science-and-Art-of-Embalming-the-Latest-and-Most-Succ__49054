@@ -1,4 +1,8 @@
 _repo: Anatomy-and-Embalming-A-Treatise-on-the-Science-and-Art-of-Embalming-the-Latest-and-Most-Succ__49054
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49054-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Nunnamaker, Albert John
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '45111'
     url: http://www.gutenberg.org/2009/agents/45111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49054#Anatomy-and-Embalming-A-Treatise-on-the-Science-and-Art-of-Embalming-the-Latest-and-Most-Succ_
 gutenberg_issued: '2015-05-26'
 gutenberg_type: Text
 identifiers:
